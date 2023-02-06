@@ -1,10 +1,10 @@
 [![Build](https://github.com/Cpeers1/Centuria/actions/workflows/gradle.yml/badge.svg)](https://github.com/Cpeers1/Centuria/actions) [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
-# Centuria
-Centuria is a work-in-progress server emulator for the now-defunct MMORPG Fer.al. Developed by a group of developers from the Fer.ever project, Centuria is a fan-run server designed to bring back the MMO game that recently shut down.
+# Fera
+Fera is a work-in-progress server emulator for the now-defunct MMORPG Fer.al. Developed by a group of developers from the Fer.ever project, Centuria is a fan-run server designed to bring back the MMO game that recently shut down.
 
-# Building Centuria
-To build Centuria you will need to have Java 17 JDK installed. Centuria is build using gradle. 
+# Building Fera
+To build Fera you will need to have Java 17 JDK installed. Centuria is build using gradle. 
 
 ## Building on Windows
 On windows, run the following commands in cmd or powershell::
@@ -38,7 +38,7 @@ Build the project:
 ```
 
 ## After building
-After building, you can find the compiled server in `build/Installations`, you can run the server by starting `centuria` (either the shell or batch script depending on your OS)
+After building, you can find the compiled server in `build/Installations`, you can run the server by starting `fera` (either the shell or batch script depending on your OS)
 
 <br/>
 
